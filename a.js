@@ -1,3 +1,3 @@
-module.export = function(){
-    console.log('this is in a.js');
-}
+module.export = function a() {
+  console.log('this is in a.js');
+};

@@ -1,4 +1,8 @@
 {
   "name": "a-test",
-  "description": "test the git submodule"
+  "description": "test the git submodule",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "@hapi/joi-date": "^2.0.1"
+  }
 }
